@@ -6,7 +6,7 @@ frameworkVersion: "3"
 provider:
   name: aws
   runtime: nodejs18.x
-# test
+# test 2
 functions:
   api:
     handler: index.handler
